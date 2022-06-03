@@ -1,2 +1,2 @@
-# Team-Capstone-Project-EDA
-Customer churn analysis
+# Telecom Churn Analysis
+Team Capstone Project
